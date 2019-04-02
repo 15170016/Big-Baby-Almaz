@@ -4,7 +4,7 @@ package helloAlmaz.helloAlmaz;
  * helloAlmaz!
  *
  */
-public class app
+public class helloAlmaz
 {
     public static void main( String[] args )
     {
