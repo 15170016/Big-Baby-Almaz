@@ -1,4 +1,4 @@
-package helloAlmaz.helloAlmaz;
+package helloAlmaz.helloAlmaz1;
 
 /**
  * helloAlmaz!
