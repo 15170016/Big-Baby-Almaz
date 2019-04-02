@@ -1,4 +1,5 @@
-package helloAlmaz.helloAlmaz;
+package 
+helloAlmaz.helloAlmaz;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
