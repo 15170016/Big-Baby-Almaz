@@ -1,10 +1,10 @@
-package helloAlmaz.helloAlmaz1;
+package helloAlmaz.helloAlmaz;
 
 /**
  * helloAlmaz!
  *
  */
-public class helloAlmaz1
+public class helloAlmaz
 {
     public static void main( String[] args )
     {
