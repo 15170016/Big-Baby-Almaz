@@ -25,7 +25,7 @@ public class helloAlmazTest
      */
     public static Test suite()
     {
-        return new TestSuite( helloAlmazTest .class );
+        return new TestSuite( helloAlmazTest.class );
     }
 
     /**
