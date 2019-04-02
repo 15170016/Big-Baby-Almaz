@@ -32,7 +32,7 @@ public class HelloAlmazTest
     /**
      * Rigourous Test :-)
      */
-    public void TestHelloAlmaz ()
+    public void testHelloAlmaz ()
     {
         assertTrue( true );
     }
